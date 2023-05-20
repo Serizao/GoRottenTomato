@@ -1,7 +1,7 @@
 package common
 
 import (
-	"GoRottenTomato/krb5/crypto/etype"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/etype"
 	"bytes"
 	"crypto/hmac"
 	"encoding/binary"

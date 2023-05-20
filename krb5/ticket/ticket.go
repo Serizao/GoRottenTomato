@@ -1,8 +1,8 @@
 package ticket
 
 import (
-	"GoRottenTomato/asn1"
-	"GoRottenTomato/krb5/types"
+	"github.com/Serizao/GoRottenTomato/asn1"
+	"github.com/Serizao/GoRottenTomato/krb5/types"
 	"time"
 )
 

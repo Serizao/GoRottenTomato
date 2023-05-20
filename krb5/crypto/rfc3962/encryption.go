@@ -1,9 +1,9 @@
 package rfc3962
 
 import (
-	"GoRottenTomato/krb5/crypto/aescts"
-	"GoRottenTomato/krb5/crypto/common"
-	"GoRottenTomato/krb5/crypto/etype"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/aescts"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/common"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/etype"
 	"crypto/rand"
 	"errors"
 	"fmt"

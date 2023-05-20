@@ -1,7 +1,7 @@
 package rfc4757
 
 import (
-	"GoRottenTomato/krb5/crypto/etype"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/etype"
 	"crypto/hmac"
 	"crypto/rc4"
 	"crypto/rand"

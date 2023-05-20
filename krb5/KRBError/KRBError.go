@@ -1,9 +1,9 @@
 package KRBError
 
 import (
-	"GoRottenTomato/asn1"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/types"
+	"github.com/Serizao/GoRottenTomato/asn1"
+	"github.com/Serizao/GoRottenTomato/krb5/flags"
+	"github.com/Serizao/GoRottenTomato/krb5/types"
 	"fmt"
 	"time"
 )

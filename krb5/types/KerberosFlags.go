@@ -1,6 +1,6 @@
 package types
 
-import "GoRottenTomato/asn1"
+import "github.com/Serizao/GoRottenTomato/asn1"
 
 func NewKrbFlags() asn1.BitString {
 	return NewKerberosFlagsFromUInt32(0)

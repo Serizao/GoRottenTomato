@@ -1,7 +1,7 @@
 package rfc4757
 
 import (
-	"GoRottenTomato/krb5/crypto/md4"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/md4"
 	"bytes"
 	"encoding/hex"
 	"errors"

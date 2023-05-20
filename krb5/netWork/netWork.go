@@ -1,8 +1,8 @@
 package netWork
 
 import (
-	"GoRottenTomato/krb5/KRBError"
-	"GoRottenTomato/krb5/flags"
+	"github.com/Serizao/GoRottenTomato/krb5/KRBError"
+	"github.com/Serizao/GoRottenTomato/krb5/flags"
 	"bytes"
 	"encoding/binary"
 	"fmt"

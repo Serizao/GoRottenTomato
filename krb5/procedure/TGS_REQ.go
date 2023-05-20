@@ -1,12 +1,12 @@
 package procedure
 
 import (
-	"GoRottenTomato/asn1"
-	"GoRottenTomato/funcs"
-	"GoRottenTomato/krb5/crypto"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/ticket"
-	"GoRottenTomato/krb5/types"
+	"github.com/Serizao/GoRottenTomato/asn1"
+	"github.com/Serizao/GoRottenTomato/funcs"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto"
+	"github.com/Serizao/GoRottenTomato/krb5/flags"
+	"github.com/Serizao/GoRottenTomato/krb5/ticket"
+	"github.com/Serizao/GoRottenTomato/krb5/types"
 	"fmt"
 	"time"
 )

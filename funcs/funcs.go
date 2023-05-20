@@ -1,7 +1,7 @@
 package funcs
 
 import (
-	"GoRottenTomato/asn1"
+	"github.com/Serizao/GoRottenTomato/asn1"
 	"crypto/rand"
 	"math"
 	"math/big"

@@ -1,7 +1,7 @@
 package rfc3961
 
 import (
-	"GoRottenTomato/krb5/crypto/etype"
+	"github.com/Serizao/GoRottenTomato/krb5/crypto/etype"
 	"bytes"
 )
 
