@@ -1,7 +1,7 @@
 package types
 
 import (
-	"GoRottenTomato/asn1"
+	"github.com/Serizao/GoRottenTomato/asn1"
 	"fmt"
 )
 

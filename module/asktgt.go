@@ -1,7 +1,7 @@
 package module
 
 import (
-	"GoRottenTomato/krb5/AskTGT"
+	"github.com/Serizao/GoRottenTomato/krb5/AskTGT"
 	"encoding/base64"
 	"fmt"
 )
